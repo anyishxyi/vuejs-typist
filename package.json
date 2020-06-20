@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-bundle": "vue-cli-service build --target vuejs-typist --name ./components/vuejs-typist",
+    "build-bundle": "vue-cli-service build --target lib --name ./components/vuejs-typist.vue",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
