@@ -1,17 +1,21 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <vuejs-typist :words="words"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import vuejsTypist from './components/vuejs-typist'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    vuejsTypist
+  },
+  data(){
+    return {
+      words: ['hello', 'bonjour']
+    }
   }
 }
 </script>
