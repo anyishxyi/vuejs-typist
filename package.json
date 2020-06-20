@@ -2,6 +2,7 @@
   "name": "vuejs-typist",
   "version": "0.1.0",
   "private": true,
+  "main": "./dist/components/vuejs-typist.vue.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -42,5 +43,12 @@
     "> 1%",
     "last 2 versions",
     "not dead"
+  ],
+  "files": [
+    "dist/*",
+    "src/*",
+    "public/*",
+    "*.json",
+    "*.js"
   ]
 }
