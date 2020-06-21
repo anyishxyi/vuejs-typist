@@ -1,15 +1,12 @@
 {
   "name": "vuejs-typist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "./dist/vuejs-typist.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib",
     "lint": "vue-cli-service lint"
-  },
-  "dependencies": {
-    "@vue/cli-service": "^4.4.4"
   },
   "browserslist": [
     "> 1%",
@@ -22,5 +19,12 @@
     "public/*",
     "*.json",
     "*.js"
-  ]
+  ],
+  "devDependencies": {
+    "@vue/cli-service": "^4.4.4"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
 }
