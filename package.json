@@ -18,7 +18,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url": "ssh://git@github.com:nmcodes/vuejs-typist.git",
+    "url": "https://github.com/nmcodes/vuejs-typist.git",
     "directory": "vuejs-typist"
   },
   "keywords": [
