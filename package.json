@@ -13,6 +13,14 @@
     "last 2 versions",
     "not dead"
   ],
+  "keywords": [
+    "typing",
+    "effect",
+    "vue",
+    "component",
+    "typist",
+    "vuejs"
+  ],
   "files": [
     "dist/*",
     "src/*",
