@@ -14,12 +14,11 @@
     "not dead"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/nmcodes"
   },
   "repository" : {
     "type" : "git",
-    "url": "https://github.com/nmcodes/vuejs-typist.git",
-    "directory": "vuejs-typist"
+    "url": "https://github.com/nmcodes/vuejs-typist.git"
   },
   "keywords": [
     "typing",
