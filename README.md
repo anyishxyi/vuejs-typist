@@ -44,5 +44,5 @@ human | Boolean | false| A changing delay between keystrokes which makes the typ
 
 ## License
 
-This project is licensed under the MIT License - see the [license.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [license](LICENSE) file for details.
 
