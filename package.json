@@ -1,5 +1,5 @@
 {
-  "name": "vuejs-typist",
+  "name": "@nmcodes/vuejs-typist",
   "version": "0.1.1",
   "private": false,
   "main": "./dist/vuejs-typist.common.js",
