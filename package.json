@@ -13,6 +13,14 @@
     "last 2 versions",
     "not dead"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com:nmcodes/vuejs-typist.git",
+    "directory": "vuejs-typist"
+  },
   "keywords": [
     "typing",
     "effect",
