@@ -1,6 +1,6 @@
 {
   "name": "@nmcodes/vuejs-typist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": false,
   "main": "./dist/vuejs-typist.common.js",
   "scripts": {
@@ -17,9 +17,9 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/nmcodes"
   },
-  "repository" : {
-    "type" : "git",
-    "url": "https://github.com/nmcodes/vuejs-typist.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmcodes/vuejs-typist.git"
   },
   "keywords": [
     "typing",
@@ -42,5 +42,12 @@
   "dependencies": {
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "A component for Vue.js that simulates a real person typing and deleting their text.",
+  "bugs": {
+    "url": "https://github.com/nmcodes/vuejs-typist/issues"
+  },
+  "homepage": "https://github.com/nmcodes/vuejs-typist#readme",
+  "author": "Jean-Paul NGALULA",
+  "license": "ISC"
 }
