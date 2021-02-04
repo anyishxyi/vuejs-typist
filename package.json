@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "vue": "^2.6.11",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.10"
   },
   "description": "A component for Vue.js that simulates a real person typing and deleting their text.",
   "bugs": {
