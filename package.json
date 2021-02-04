@@ -1,6 +1,7 @@
 {
   "name": "@nmcodes/vuejs-typist",
   "version": "1.1.2",
+  "author": "Jean-Paul NGALULA",
   "private": false,
   "main": "./dist/vuejs-typist.common.js",
   "scripts": {
@@ -48,6 +49,5 @@
     "url": "https://github.com/nmcodes/vuejs-typist/issues"
   },
   "homepage": "https://github.com/nmcodes/vuejs-typist#readme",
-  "author": "Jean-Paul NGALULA",
   "license": "ISC"
 }
