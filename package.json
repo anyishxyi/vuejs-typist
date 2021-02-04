@@ -40,7 +40,7 @@
     "@vue/cli-service": "^4.1.0"
   },
   "dependencies": {
-    "vue": "^2.6.11",
+    "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
   },
   "description": "A component for Vue.js that simulates a real person typing and deleting their text.",
